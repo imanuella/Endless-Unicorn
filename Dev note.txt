@@ -1,0 +1,15 @@
+Nama : Imanuel L Pattiasina
+NIRM : 12155201190046
+Kelas B
+Tugas UAS GRAFKOM & MULTIMEDIA
+Nama Game : Endless Unicorn
+
+-Game ini dibuat menggunakan Unity
+-Semua sprite dalam game dibuat sendiri
+-Music dalam game baru akan dimulai beberapa detik setelah
+masuk "menu" dan "play"
+-Ada satu bug yaitu saat player mati score akan terus bertambah
+-Saat penginstalan Antivirus akan mengira ini file virus jadi diharapkan untuk matikan antivirus atau
+tambahkan sebagai file exception pada antivirus
+-Versi Windows sudah dicoba 100% works
+-Versi Mac belum dicoba karena tidak punya Mac

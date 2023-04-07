@@ -1,0 +1,22 @@
+extract the rar file, disable antivirus (recommended) and choose one of the following method
+
+# Windows
+- method 1
+go to windows folder and run Endless Unicorn.exe setup file
+
+- method 2
+1.extract Endless Unicorn x86.rar file
+2.run Endless Unicorn.exe
+
+- method 3
+1.open x86 folder
+2.run Endless Unicorn.exe
+
+#Mac
+- method 
+1.extract Endless Unicorn.rar file
+2.run the file
+
+- method 3
+1.open Mac OS X folder
+2.run the file
